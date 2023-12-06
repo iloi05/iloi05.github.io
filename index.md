@@ -4,7 +4,7 @@ This is my home page! My name is Ivy Loi and I am a student at [Cal State Fuller
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/iloi05.
+My GitHub page is [http://github.com/iloi05](http://github.com/iloi05).
 
 ### CPSC 120
 
